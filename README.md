@@ -7,13 +7,6 @@
 #### 5、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
 
-<div align=left>
-    <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。</p>
-<figure class="half" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 40%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 40%;" />
-                                                                                                                         </figure></div>
-
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
